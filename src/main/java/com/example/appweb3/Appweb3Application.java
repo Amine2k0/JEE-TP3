@@ -19,7 +19,7 @@ public class Appweb3Application implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        Patient patient=new Patient();
+       /* Patient patient=new Patient();
         patient.setId(null);
         patient.setNom("HAKIM");
         patient.setDateNaissance(new Date());
@@ -29,6 +29,6 @@ public class Appweb3Application implements CommandLineRunner {
        repos.save(patient1);
        repos.save(patient);
        repos.save(new Patient(null,"kadiri",new Date(),true,33));
-
+*/
     }
 }
