@@ -1,17 +1,17 @@
 <p>Project</p>
-<img src="Captures/capture.png">
+<img src="Captures/Capture.png">
 <p>Entite patient</p>
-<img src="Captures/capture1.png">
+<img src="Captures/Capture1.png">
 <p>Repos patient</p>
-<img src="Captures/capture2.png">
+<img src="Captures/Capture2.png">
 <p>Contreleur patient</p>
-<img src="Captures/capture3.png">
+<img src="Captures/Capture3.png">
 <p>AppWebApplication</p>
-<img src="Captures/capture4.png">
+<img src="Captures/Capture4.png">
 <p>vue listes des patients</p>
-<img src="Captures/capture5.png">
-<img src="Captures/capture6.png">
+<img src="Captures/Capture5.png">
+<img src="Captures/Capture6.png">
 <p>list patient</p>
-<img src="Captures/capture7.png">
-<img src="Captures/capture8.png">
-<img src="Captures/capture9.png">
+<img src="Captures/Capture7.png">
+<img src="Captures/Capture8.png">
+<img src="Captures/Capture9.png">
