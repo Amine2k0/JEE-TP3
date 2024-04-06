@@ -1,5 +1,5 @@
 <p>Project</p>
-<img src="Captures/Capture.png">
+<img src="Captures/Capture.PNG">
 <p>Entite patient</p>
 <img src="Captures/Capture1.png">
 <p>Repos patient</p>
